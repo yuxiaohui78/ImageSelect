@@ -1,5 +1,5 @@
 # ImageSelect
-This code is repackage the code below
+This code is a repackage the code below
 
 >https://github.com/ralfgehrer/AndroidCameraUtil
 
