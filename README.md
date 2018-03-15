@@ -1,5 +1,10 @@
 # ImageSelect
-ImageSelect
+This code is repackage the code below
+
+>https://github.com/ralfgehrer/AndroidCameraUtil
+
+# How to use that:
+
 ```
    allprojects {
 		repositories {
