@@ -1,6 +1,7 @@
 # ImageSelect
 ImageSelect
-```allprojects {
+```
+   allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
